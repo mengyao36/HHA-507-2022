@@ -1,4 +1,6 @@
 import pandas as pd
+import tableone as t1
+import researchpy as rp
 from tableone import TableOne, load_dataset
 
 ##### DATASET 1 #####
